@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chinese Municipalities</string>
+    <string name="main_title">Municipalities in China</string>
+    <string name="main_subtitle">Explore four cities with provincial-level status</string>
+    <string name="input_label">I want to know about:</string>
+    <string name="input_hint">e.g. Beijing</string>
+    <string name="input_instruction">Press Go to open a city profile.</string>
+    <string name="visit_site">Visit site</string>
+    <string name="error_invalid_municipality">Please enter Beijing, Shanghai, Tianjin, or Chongqing.</string>
+    <string name="error_no_browser">No app is available to open this website.</string>
+    <string name="municipalities_image_description">A view of China and its municipalities</string>
+    <string name="municipality_image_description">A city landmark</string>
+</resources>
